@@ -1,4 +1,4 @@
-# Password Generator
+# Password Generator with Python
 This is a simple Python program that generates random passwords based on user input. It allows you to specify the length of the password and includes letters, numbers, and special characters in the generated passwords.
 
 # How to Use
